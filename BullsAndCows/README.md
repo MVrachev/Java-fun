@@ -11,9 +11,11 @@ Enter length of play number:
 Enter your suggestion: 
 11222
 1 bulls and 1 cows
-Enter your suggestion: 
+
+Enter your suggestion:
 12345
 2 bulls and 0 cows
+
 Enter your suggestion: 
 15615
 5 bulls and 0 cows
