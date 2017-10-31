@@ -7,19 +7,20 @@ If you have same number bulls as the number of the computer digits then you win 
 Examples:
 
 Enter length of play number:
-5
+5 // the computer generated number is 15615
+
 Enter your suggestion: 
 11222
-1 bulls and 1 cows
+  1 bulls and 1 cows
 
 Enter your suggestion:
 12345
-2 bulls and 0 cows
+  2 bulls and 0 cows
 
 Enter your suggestion: 
 15615
-5 bulls and 0 cows
-Finished
+  5 bulls and 0 cows
+  Finished
 
 if the computer generated number is 4761 then we have:
 
