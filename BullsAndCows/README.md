@@ -20,7 +20,8 @@ Enter your suggestion:
 Enter your suggestion: 
 15615
   5 bulls and 0 cows
-  Finished
+  
+Finished
 
 if the computer generated number is 4761 then we have:
 
