@@ -18,3 +18,10 @@ Enter your suggestion:
 15615
 5 bulls and 0 cows
 Finished
+
+if the computer generated number is 4761 then we have:
+
+0438 --> 1 cow
+4067 --> 2 bulls и 1 cow
+1674 --> 4 cows
+4761 --> 4 bulls
