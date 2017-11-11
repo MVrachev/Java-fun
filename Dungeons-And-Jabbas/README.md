@@ -14,7 +14,7 @@ S - starting position of your hero
 
 H - current position of your hero
 
-/# - osbsticle where your hero cant go.
+/# - osbsticle where your hero cant go.<br/>
 
 T - Treasure.
 
