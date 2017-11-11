@@ -10,19 +10,19 @@ Here is an example of a map:
 
 where 
 
-S - starting position of your hero
+'S - starting position of your hero
 
-H - current position of your hero
+'H' - current position of your hero
 
-/# - osbsticle where your hero cant go.<br/>
+'#' - osbsticle where your hero cant go.<br/>
 
-T - Treasure.
+'T' - Treasure.
 
-. - A free position. Nothing happens if you go there.
+'.' - A free position. Nothing happens if you go there.
 
-Е - An enemy.
+'Е' - An enemy.
 
-G - The end goal.
+'G' - The end goal.
 
 The hero and the enemy has a wepon and a spell at their disposal.
 
