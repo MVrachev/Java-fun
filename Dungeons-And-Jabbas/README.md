@@ -12,7 +12,7 @@ where
 
 S - starting position of your hero
 H - current position of your hero
-# - osbsticle where your hero cant go.
+/# - osbsticle where your hero cant go.
 T - Treasure.
 . - A free position. Nothing happens if you go there.
 Е - An enemy.
