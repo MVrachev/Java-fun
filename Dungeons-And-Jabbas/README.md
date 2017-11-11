@@ -1,12 +1,12 @@
-**A 2D game with a single hero finding he's way to the exit of a map.**
+## A 2D game with a single hero finding he's way to the exit of a map. ##
 
 Here is an example of a map:
 
- S . # # . . . . . T 
- # T # # . . # # # .
- # . # # # E # # # E 
- # . E . . . # # # . 
- # # # T # # # # # G
+ /S . # # . . . . . T 
+/ # T # # . . # # # .
+ /# . # # # E # # # E 
+/ # . E . . . # # # . 
+/ # # # T # # # # # G
 
 where 
 
