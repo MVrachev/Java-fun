@@ -4,7 +4,7 @@ import bg.uni.sofia.fmi.mjt.dungeon.treasure.Spell;
 
 import bg.uni.sofia.fmi.mjt.dungeon.treasure.Weapon;
 
-public class LivingCreatures implements Actor {
+public abstract class LivingCreatures implements Actor {
 	
 	protected String name;
 	protected int health;
