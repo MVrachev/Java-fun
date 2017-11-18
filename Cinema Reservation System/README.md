@@ -1,5 +1,5 @@
 
-**THis is a cinema reservation system**
+**This is a cinema reservation system**
 
 My Cinema reservation System implements this interface:
 
@@ -59,9 +59,13 @@ public interface CinemaReservationSystem {
 In this cinema you have pairs of <Movies, List<Projections>> where those are put in a HashMap.
 
 Every Movie has a name, a genre (enum values) and a duration.
+
 Every Projection has its own Hall, the movie shown on the projection and a date.
+
 Every Hall has number of rows, number of seats in a row, number of the hall and two demeontional array of Seats.
+
 Every Seat has its own number of row, number of the current seat in the row and a boolean value is it reserved already.
+
 Every Ticket has its own projection, seat and name of the owner.
 
 The genre of the film is an enum.
