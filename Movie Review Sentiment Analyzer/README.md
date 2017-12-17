@@ -13,6 +13,7 @@ This project purpose is that it will process a movie review and analyze it and i
 | 4       | positive          |
 
 
+
 At first the algorithm is teached with labeled data. I use 8529 reviews from the website [Rotten Tomatoes](https://www.rottentomatoes.com/) 
 
 There are words which my algorithm will miss and wont process because they are pointless for the algorithm purpose or they can even worse the algorithm correctness percentage. Those words are called "stop words" by many similar sentiment algorithms.
