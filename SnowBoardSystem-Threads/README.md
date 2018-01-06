@@ -1,5 +1,5 @@
 
-*Snow Board reservation system *
+# Snow Board reservation system
 
 This is my first multithreading application.
 
